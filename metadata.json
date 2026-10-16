@@ -1,0 +1,6 @@
+{
+  "name": "Jiyansh's ABC Birthday Adventure",
+  "description": "A delightful and colorful A-to-Z preschool learning game celebrating Jiyansh's 3rd Birthday with fun animations, interactive sounds, and Telugu pronunciation hints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
